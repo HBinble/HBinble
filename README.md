@@ -1,13 +1,13 @@
-<!-- 헤더부분(가운데 정렬을위해 html 문법사용) -->
 <p align='center'>
   <a href="https://github.com/HBinble">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=HanBin's%20Study&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=HanBin&fontSize=90"/>
   </a>
 </p>
 
 ## info
 - Name : LEE HanBin
-- Email : diary1205@naver.com
+- Email : diary2417@gmail.com
 
 
 <!--
